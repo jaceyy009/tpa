@@ -16,7 +16,7 @@ permalink: /assets/docs/
   <h2 style="color:#00ff00;">Directory Listing: /assets/docs/</h2>
   <ul style="list-style:none; padding-left:0;">
     <li>📄 <a href="https://jaceyy009.github.io/tpa/assets/docs/TPA-Documents-Info-Redacted.pdf" style="color:#00ff00; text-decoration:underline;">TPA-Documents-Info-Redacted.pdf</a> <span style="color:#555;">(42 pages · 2025 leak)</span></li>
-    <li>📄 <a href="https://jaceyy009.github.io/tpa/assets/docs/TPA-Documents-Indo-Unredacted.pdf" style="color:#888; pointer-events:none;">TPA-Documents-Info-Unredacted.pdf</a> <span style="color:#555;">(42 page · 2025 leak unredacted)</span></li>
+    <li>📄 <a href="https://jaceyy009.github.io/tpa/assets/docs/TPA-Documents-Info-Unredacted.pdf" style="color:#00ff00; text-decoration:underline;">TPA-Documents-Info-Unredacted.pdf</a> <span style="color:#555;">(42 pages · 2025 leak)</span></li>
     <li>🗀 <a href=".." style="color:#00ff00;">.. (go back)</a></li>
   </ul>
   
