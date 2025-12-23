@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Restricted Archive Access
-permalink: /docs/
+permalink: /assets/docs/
 ---
 
 <div style="background:#000; color:#0f0; padding:40px; font-family:'Courier New', monospace; border:4px double #00ff00; max-width:800px; margin:40px auto; box-shadow:0 0 20px #00ff00;">
