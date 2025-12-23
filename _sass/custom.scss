@@ -1,0 +1,23 @@
+body {
+  background-color: #121212;  // Deep black
+  color: #e0e0e0;  // Muted gray text
+  font-family: 'Courier New', monospace;  // Typewriter font for "leaked docs" feel
+}
+header {
+  background: linear-gradient(to bottom, #000000, #330000);  // Shadowy red fade
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);  // Deep shadows
+}
+a {
+  color: #ff0000;  // Blood red links
+  text-decoration: underline wavy;  // Cryptic underline
+}
+.post-content {
+  opacity: 0.9;  // Slightly faded for "redacted" look
+  text-shadow: 1px 1px 2px black;  // Ominous glow
+}
+// Add flicker animation for horror
+@keyframes flicker {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+.warning { animation: flicker 2s infinite; }  // Use on sensitive sections
